@@ -5,3 +5,6 @@
 [![Static Badge](https://img.shields.io/badge/Selenium-version%3A4.30.0-green?logo=selenium)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
 ![https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=](https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=)
 [![Static Badge](https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=)](https://www.bigc.edu.cn/)
+
+
+[![Static](https://img.shields.io/badge/北京印刷学院-BIGC-0077ff?style=flat&logo=https%3A%2F%2Fwww.bigc.edu.cn%2Fimages%2Fcontent%2F2012%2F20120416150328637616.jpg&logoWidth=40)](https://www.bigc.edu.cn/)
