@@ -3,8 +3,4 @@
 [![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E8%80%85-%E6%98%9F%E8%AE%B0-green?logo=github&link=https%3A%2F%2Fgithub.com%2Fstarnotes-xj)](https://github.com/starnotes-xj)
 [![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E8%80%85%E9%82%AE%E7%AE%B1-starnotes%40qq.com-green?logo=github)](https://github.com/starnotes-xj)
 [![Static Badge](https://img.shields.io/badge/Selenium-version%3A4.30.0-green?logo=selenium)](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java)
-![https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=](https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=)
-[![Static Badge](https://img.shields.io/badge/北京印刷学院-BIGC-blue.jpg?logo=data:image/jpg;base64,aHR0cHM6Ly93d3cuYmlnYy5lZHUuY24vaW1hZ2VzL2NvbnRlbnQvMjAxMi8yMDEyMDQxNjE1MDMyODYzNzYxNi5qcGc=)](https://www.bigc.edu.cn/)
-
-
-[![Static](https://img.shields.io/badge/北京印刷学院-BIGC-0077ff?style=flat&logo=https%3A%2F%2Fwww.bigc.edu.cn%2Fimages%2Fcontent%2F2012%2F20120416150328637616.jpg&logoWidth=40)](https://www.bigc.edu.cn/)
+[![Static Badge](https://img.shields.io/badge/%E5%8C%97%E4%BA%AC%E5%8D%B0%E5%88%B7%E5%AD%A6%E9%99%A2-BIGC-blue?logo=counterstrike)](https://www.bigc.edu.cn/)
